@@ -1,0 +1,110 @@
+{
+    "spin-flag": {
+        "name": "Gire a Bandeira",
+        "description": "Talvez você devesse tentar girar a bandeira..."
+    },
+    "1-country": {
+        "name": "Estamos apenas começando",
+        "description": "Encontre qualquer país no mapa."
+    },
+    "5-streak": {
+        "name": "M-M-M-Matança Monstruosa",
+        "description": "Encontre 5 países consecutivos."
+    },
+    "10-streak": {
+        "name": "Helicóptero de Combate a Caminho",
+        "description": "Encontre 10 países consecutivos."
+    },
+    "30-streak": {
+        "name": "Bomba Nuclear Tática",
+        "description": "Encontre 30 países consecutivos."
+    },
+    "daily-challenge": {
+        "name": "Dose Diária",
+        "description": "Complete um desafio diário sem cometer um único erro."
+    },
+    "all-north-america": {
+        "name": "Vitória Cultural",
+        "description": "Encontre todos os países da América do Norte sem cometer um único erro."
+    },
+    "all-balkans": {
+        "name": "Goran Bregović",
+        "description": "Encontre todos os países dos Bálcãs sem cometer um único erro."
+    },
+    "all-caribbean": {
+        "name": "Arrr, Marinheiro!",
+        "description": "Encontre todos os países do Caribe sem cometer um único erro."
+    },
+    "all-middle-east": {
+        "name": "Onde Tudo Começou",
+        "description": "Encontre todos os países do Oriente Médio sem cometer um único erro."
+    },
+    "all-europe": {
+        "name": "12 Estrelas Douradas",
+        "description": "Encontre todos os países da Europa sem cometer um único erro."
+    },
+    "all-oceania": {
+        "name": "Mundo Aquático",
+        "description": "Encontre todos os países da Oceania sem cometer um único erro."
+    },
+    "all-asia": {
+        "name": "7 Tropas por Turno",
+        "description": "Encontre todos os países da Ásia sem cometer um único erro."
+    },
+    "all-southeast-asia": {
+        "name": "Saltando entre Ilhas",
+        "description": "Encontre todos os países do Sudeste Asiático sem cometer um único erro."
+    },
+    "all-africa": {
+        "name": "Rei da Selva",
+        "description": "Encontre todos os países da África sem cometer um único erro."
+    },
+    "all-america": {
+        "name": "Amerigo Vespucci",
+        "description": "Encontre todos os países das Américas sem cometer um único erro."
+    },
+    "all-world": {
+        "name": "Literalmente 5Head",
+        "description": "Encontre TODOS os países do Mundo sem cometer um único erro."
+    },
+    "all-usa-sates": {
+        "name": "Pegue Todos",
+        "description": "Encontre TODOS os estados dos EUA sem cometer um único erro."
+    },
+    "all-chinese-provinces": {
+        "name": "O País do Meio",
+        "description": "Encontre TODAS as províncias da China sem cometer um único erro."
+    },
+    "all-germany-states": {
+        "name": "Do Mar do Norte aos Alpes",
+        "description": "Encontre TODOS os estados da Alemanha sem cometer um único erro."
+    },
+    "all-russian-regions": {
+        "name": "Alexander Nevsky",
+        "description": "Encontre TODAS as regiões da Rússia sem cometer um único erro."
+    },
+    "all-french-departments": {
+        "name": "As Conquistas Napoleônicas",
+        "description": "Encontre TODOS os departamentos da França sem cometer um único erro."
+    },
+    "all-italian-regions": {
+        "name": "Gota a gota a pedra é escavada",
+        "description": "Encontre TODAS as regiões da Itália sem cometer um único erro."
+    },
+    "all-italian-provinces": {
+        "name": "Até tu, Brutus?",
+        "description": "Encontre TODAS as províncias da Itália sem cometer um único erro."
+    },
+    "all-canadian-provinces": {
+        "name": "Xarope de bordo, hein?",
+        "description": "Encontre TODAS as províncias do Canadá sem cometer um único erro."
+    },
+    "all-world-capitals": {
+        "name": "Perdido nas Traduções",
+        "description": "Encontre as capitais de TODOS os países do mundo sem cometer um único erro."
+    },
+    "supporter": {
+        "name": "Apoiador",
+        "description": "Torne-se um apoiador!"
+    }
+}
